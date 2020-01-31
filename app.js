@@ -6,7 +6,7 @@ const app = express()
 const port = 3000
 
 const user = "wallksignarf@gmail.com"
-const pass = "123159onurb123357"
+const pass = "****"
 
 app.get('/', (req, res) => res.send('Hello World!'))
 
